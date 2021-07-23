@@ -10,3 +10,4 @@
 | 35   | Search Insert Position                          | Easy       |
 | 53   | Maximum Subarray                                | Easy       |
 | 70   | Climbing Stairs                                 | Easy       |
+| 83   | Remove Duplicates from Sorted List              | Easy       |
