@@ -12,3 +12,4 @@
 | 70   | Climbing Stairs                                 | Easy       |
 | 83   | Remove Duplicates from Sorted List              | Easy       |
 | 100  | Same Tree                                       | Easy       |
+| 101  | Symmetric Tree                                  | Easy       |
