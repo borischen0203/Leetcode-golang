@@ -14,3 +14,4 @@
 | 100  | Same Tree                                       | Easy       |
 | 101  | Symmetric Tree                                  | Easy       |
 | 136  | Single Number                                   | Easy       |
+| 412  | Fizz Buzz                                       | Easy       |
