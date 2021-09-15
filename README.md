@@ -16,3 +16,4 @@
 | 101  | Symmetric Tree                                  | Easy       |
 | 136  | Single Number                                   | Easy       |
 | 412  | Fizz Buzz                                       | Easy       |
+| 169  | Majority Element                                | Easy       |
