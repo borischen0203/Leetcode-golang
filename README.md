@@ -1,4 +1,5 @@
 # Leetcode-golang
+<img src="https://raw.githubusercontent.com/scraly/gophers/main/harry-gopher.png" alt="harry-gopher" width=380 height=557>
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
