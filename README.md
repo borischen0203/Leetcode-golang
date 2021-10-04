@@ -17,3 +17,4 @@
 | 136  | Single Number                                   | Easy       |
 | 412  | Fizz Buzz                                       | Easy       |
 | 169  | Majority Element                                | Easy       |
+| 290  | Word Pattern                                    | Easy       |
